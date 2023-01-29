@@ -1,0 +1,22 @@
+*{box-sizing: border-box;
+border: 1px solid black;
+margin: 0;
+padding: 0;}
+
+
+header, footer{
+    min-height: 150px;
+    background-color: pink;
+    clear:both;
+}
+
+section {
+    min-height: 400px;
+    float: left;
+    width: 20%;
+}
+
+
+.wide {
+    width: 40%;
+}
